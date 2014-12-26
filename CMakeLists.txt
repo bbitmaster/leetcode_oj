@@ -8,4 +8,5 @@ PROJECT(leetcode_oj)
 add_executable(add_binary add_binary.cpp)
 add_executable(zigzzag_conversion zigzag_conversion.cpp)
 add_executable(single_number single_number.cpp)
+add_executable(merge_k_sorted_lists merge_k_sorted_lists.cpp)
 
